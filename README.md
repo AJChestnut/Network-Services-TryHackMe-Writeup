@@ -592,7 +592,7 @@ If everything was successful, you should have the password displayed as the last
 
 What is the password for the user “mike”?
 
-password
+You can find this in the output from hydra.
 
 **Question 2**
 

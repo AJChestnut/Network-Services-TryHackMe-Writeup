@@ -620,4 +620,4 @@ No answer needed, click Complete.
 
 You did great getting through this room. It may have seemed intimidating at first, it may have been a breeze, but you did it. 
 
-Big thank you to [Polomints](https://tryhackme.com/p/PoloMints) for creating this room and [TryHackMe](https://tryhackme.com/) for putting together is wonderful site. 
+Big thank you to [Polomints](https://tryhackme.com/p/PoloMints) for creating this room and [TryHackMe](https://tryhackme.com/) for putting together this wonderful site. 

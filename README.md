@@ -574,7 +574,7 @@ Great! Now we’ve got details about the FTP server and, crucially, a possible u
 
 No answer needed; click Complete.
 
-## Task 10
+## Task 10 Exploiting FTP
 
 For this particular Task, we will be using the username `mike` that we already know and attempt to brute force his password. This is where the `rockyou.txt` file comes into play; it is a password list. If you are using your own local system, remember where you downloaded it and use that for the file path. The tool we are going to be using is called hydra. Hydra can take in a password list and attempt them against a system to see if they work.
 

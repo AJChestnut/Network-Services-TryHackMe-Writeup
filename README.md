@@ -600,7 +600,7 @@ Bingo! Now, let’s connect to the FTP server as this user using “ftp [IP]” 
 
 Now were are going to log in using our newly found credentials. 
 
-Enter `ftp {Your Active Machine IP Address}`. Then enter `mike` as the username and `password` as the password. You should now have the `ftp>` prompt.
+Enter `ftp {Your Active Machine IP Address}`. Then enter `mike` as the username and the answer from the previous question as the password. You should now have the `ftp>` prompt.
 
 No answer needed; click complete.
 

@@ -14,7 +14,7 @@ Also, suppose you are as new to TryHackMe as I am. In that case, you may have on
 
 If you will be using your local machine, I would suggest using either a Linux machine or Windows Subsystem for Linux with Kali/your favorite flavor installed. All of the tools you will need are preinstalled with Kali but can be added to other distros. Also, I don’t have Windows Subsystem for Linux working on my machine, so you may have to figure out some things yourself.
 
-There is a part that requires a file provided in the browser-based Kali machine/the Attack Box. If you want to use your local machine, you will have to start up the Attack Box and download this file. You could also use the Attack Box for just Task 10. If you do download the file, you should delete it after your done with the room — out of respect for the room's creator.
+There is a part that requires a file provided in the browser-based Kali machine/the Attack Box. If you want to use your local machine, you will have to start up the Attack Box and download this file. You could also use the Attack Box for just Task 10. 
 
 
 ***How to download using WinSCP on Windows 10***

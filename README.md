@@ -16,6 +16,9 @@ If you will be using your local machine, I would suggest using either a Linux ma
 
 There is a part that requires a file provided in the browser-based Kali machine/the Attack Box. If you want to use your local machine, you will have to start up the Attack Box and download this file. You could also use the Attack Box for just Task 10. 
 
+@@ I have subsequently learned that you can download the file from its GitHub at [rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
+That is by far the easiest method, but I'm going to leave these additional instructions here incase anyone wants to try them. @@
+
 
 ***How to download using WinSCP on Windows 10***
 

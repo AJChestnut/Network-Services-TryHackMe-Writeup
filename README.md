@@ -6,6 +6,8 @@ This write-up will include the answers to most questions, but, as requested by T
 
 This room can be found in the Cyber Defense learning path at the time of writing and [here](https://tryhackme.com/room/networkservices).
 
+You can find my video walkthrough of this [HERE](https://www.youtube.com/playlist?list=PLiJ1Vot-uE9aIKQ21LDtM2iT1f7QctG5a).
+
 The tasks in this room follow a repeated pattern, Understanding, Enumerating, and Exploiting. The Understanding tasks teach you about the service you are going to be exploiting. The Enumerating tasks teach you how to collect data about the service. And then, the Exploiting tasks have you execute the exploit for each service. 
 
 The VMs that this room uses are all in the Enumerating tasks, denoted by the green stack icon ![Green Stack Icon](https://user-images.githubusercontent.com/84687845/125002750-de631280-e012-11eb-8ae2-52b947763a04.JPG). Since the VMs can take anywhere from 1-5 minutes to spin up, I recommend that before you start an Understand task, hop down to the Enumerating Task and startup the machine. That gives it time to set up while you go back and run through the Understanding task.
